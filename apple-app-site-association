@@ -1,0 +1,13 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "appID":"6444548063.developer.hongki.XCTestExample",
+                "paths": [ "*" ]
+            },
+        ]
+    }
+}
